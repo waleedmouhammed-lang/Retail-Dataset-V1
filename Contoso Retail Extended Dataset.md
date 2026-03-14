@@ -74,6 +74,19 @@ To completely remove the gen, dim, and fact schemas and their underlying objects
 
 After running the drop script, you can restart the process from **Step 2** to rebuild the dataset from scratch.
 
+## **📘 Comprehensive Project Documentation & Requirements**
+
+This repository isn't just a sandbox; it is a blueprint for a complete, portfolio-grade capstone project. To guide your development from raw data to executive dashboards, we have included a comprehensive suite of documentation.
+
+You can build a full end-to-end analytics project by following the provided **Project Requirements Document**. Additionally, you will find detailed architectural summaries detailing the exact SQL engineering and Power BI development work required.
+
+Please refer to the following attached documents to guide your project:
+
+* **`E-Commerce Business Intelligence Project.pdf` (The Requirements):** Your master project guide. It includes a structured 6-week execution timeline and over 80 role-specific business questions spanning six executive personas (CEO, CFO, COO, CSO, CMO, and Product Manager). Use this to structure your analytical approach and dashboard development.  
+* **`Contoso_BI_Document1_DatabaseArchitecture.pdf`:** A deep dive into the SQL layer. This document explains the database extension, the `gen` physical layer, the view layer (`dim`/`fact`), the Star Schema design, and the Python export pipeline necessary for BI ingestion.  
+* **`Contoso_BI_Document2_PowerBI_Analytics.pdf`:** Your guide to the presentation and semantic layer. It covers Power BI data modeling, DAX analytical pipelines, VertiPaq optimization, gap closure strategies, and Z-Pattern dashboard design principles.  
+* **`Contoso_BI_Document3_Appendices.pdf`:** The ultimate technical reference guide. It contains the strict script execution order, a complete column dictionary, the entity relationship map, and a full DAX formula library featuring 49 advanced measures.
+
 ## **💡 About the Creator**
 
 This dataset was engineered by **Waleed Mouhammed**, an Engineer, Senior Analytics Engineer, and Data Analysis Instructor with 15 years of experience turning raw data into actionable insights for decision-making.
